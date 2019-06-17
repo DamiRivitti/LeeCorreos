@@ -6,8 +6,8 @@ import re
 
 
 # Declaro variables que almacenan los datos del usuario
-username = 'challengemelidr@gmail.com'
-password = 'Bochini10@'
+username = 'xxxxx@gmail.com'
+password = 'xxxxx'
 # Gmai necesita un protoclo seguro IMAP4_SSL
 mail = imaplib.IMAP4_SSL("imap.gmail.com")
 
