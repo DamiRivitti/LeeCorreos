@@ -62,8 +62,8 @@ inbox_item_list = data[0].split()
         mydb = mysql.connector.connect(
         host="localhost",
         user="root",
-        passwd="scarparo10",
-        database="correos")
+        passwd="contraseña",
+        database="nombredelabase")
         mycursor = mydb.cursor()
 
         # Defino el query
